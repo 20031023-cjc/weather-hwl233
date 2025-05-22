@@ -1,0 +1,11 @@
+[
+  {"name":"大阪","country":"JP"},
+  {"name":"東京","country":"JP"},
+  {"name":"福州","country":"CN"},
+  {"name":"ニューヨーク","country":"US"},
+  {"name":"ロンドン","country":"GB"},
+  {"name":"福岡","country":"JP"},
+  {"name":"パリ","country":"FR"},
+  {"name":"北京","country":"CN"},
+  {"name":"上海","country":"CN"}
+]
